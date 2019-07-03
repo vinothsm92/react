@@ -1,0 +1,1 @@
+export const baseUrl = 'http://104.215.154.221:8080/dms-dapp-docuchain-api/docuchain/api';

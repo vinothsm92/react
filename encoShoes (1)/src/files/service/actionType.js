@@ -1,0 +1,4 @@
+export const actionTypes = {
+  LOGINSUCCESS:"LOGINSUCCESS",
+  LOGINFAILURE:"LOGINFAILURE" 
+}
